@@ -1,0 +1,23 @@
+
+#navbar{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow:teal;
+    border-radius: 5px;
+}
+#options{
+   display: flex;
+    gap:20px;
+}
+h3{
+    display: flex;
+    gap:20px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color:orangered;
+}
